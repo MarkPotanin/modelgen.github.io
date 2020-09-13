@@ -1,8 +1,10 @@
-## Видео
+# Видео
+
 [Семинар](https://youtu.be/zd8NHEf4zfI) от 06.09.2010
+
 [IDEF введение](https://youtu.be/snESVZdqY7Q)
 
-## Статьи
+# Статьи
 
 #### Варфоломеева Анна Андреевна
 
@@ -29,7 +31,7 @@
 #### Томми Яаккола
 [Презентация](http://www.machinelearning.ru/wiki/images/7/79/Bochkarev2017Presentation_01.pdf)
 
-## Код
+# Код
 
 #### Potanin
 
