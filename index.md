@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Видео
+[Семинар](https://youtu.be/zd8NHEf4zfI) от 06.09.2010
+[IDEF введение](https://youtu.be/snESVZdqY7Q)
 
-You can use the [editor on GitHub](https://github.com/MarkPotanin/modelgen.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Статьи
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Варфоломеева Анна Андреевна
 
-### Markdown
+Бакалаврская диссертация [Методы структурного обучения для построения прогностических моделей](http://www.machinelearning.ru/wiki/images/f/f2/Varfolomeeva2013Diploma.pdf), [презентация (PDF)](http://www.machinelearning.ru/wiki/images/a/a3/Varfolomeeva2013Presentation.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Магистерская диссертация [Методы структурного обучения в задаче обобщения структур прогностических моделей](http://www.machinelearning.ru/wiki/images/2/27/Varfolomeeva2015MsThesis.pdf), [презентация (PDF)](http://www.machinelearning.ru/wiki/images/5/53/Varfolomeeva2015MsPresentation.pdf)
 
-# Header 1
-## Header 2
-### Header 3
+#### Шибаев Иннокентий Андреевич
 
-- Bulleted
-- List
+Бакалаврская диссертация [Прогнозирование оптимальных суперпозиций в задачах регрессии](http://www.machinelearning.ru/wiki/images/9/90/Shibaev2018BThesis.pdf), [презентация (PDF)](http://www.machinelearning.ru/wiki/images/c/c1/Shibaev2018Presentation.pdf)
 
-1. Numbered
-2. List
+#### Kulunchakov A.S., Strijov V.V
 
-**Bold** and _Italic_ and `Code` text
+[Generation of simple structured Information Retrieval functions by genetic algorithm without stagnation](http://strijov.com/papers/Kulunchakov2014RankingBySimpleFun.pdf)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Potanin
 
-### Jekyll Themes
+[Аддитивная регуляризация для выбора структуры сетей глубокого обучения](https://drive.google.com/file/d/1_rDG98DlLaBcvlWr2oB_Mo8ksAfYtGL8/view?usp=sharing)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MarkPotanin/modelgen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Оптимизация структуры сетей глубокого обучения](https://drive.google.com/file/d/1TlUqZyNj2MFL6u2xyntjmfRepOA22qTn/view?usp=sharing)
 
-### Support or Contact
+#### Томми Яаккола
+[Презентация](http://www.machinelearning.ru/wiki/images/7/79/Bochkarev2017Presentation_01.pdf)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Код
+
+#### Potanin
+
+Оптимизация структуры сетей глубокого обучения [репозиторий](https://github.com/MarkPotanin/GeneticOpt)
+
+
+#### Варианты постановки задачи
+
+[Код раз](https://sourceforge.net/p/mlalgorithms/code/HEAD/tree/Users/KuznetsovMikhail/proj_StructureForecasting2015/)
+
+[Код два](https://sourceforge.net/p/mlalgorithms/code/HEAD/tree/Users/KuznetsovMikhail/StructureForecasting2015/)
